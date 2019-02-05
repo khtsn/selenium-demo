@@ -1,0 +1,10 @@
+C:\Users\khanh.tran\Documents\Visual Studio 2015\Projects\SeleniumBasic\SeleniumBasic\bin\Debug\DLLs\Selenium.WebDriverBackedSelenium.dll
+C:\Users\khanh.tran\Documents\Visual Studio 2015\Projects\SeleniumBasic\SeleniumBasic\bin\Debug\DLLs\ThoughtWorks.Selenium.Core.dll
+C:\Users\khanh.tran\Documents\Visual Studio 2015\Projects\SeleniumBasic\SeleniumBasic\bin\Debug\DLLs\WebDriver.dll
+C:\Users\khanh.tran\Documents\Visual Studio 2015\Projects\SeleniumBasic\SeleniumBasic\bin\Debug\DLLs\WebDriver.Support.dll
+C:\Users\khanh.tran\Documents\Visual Studio 2015\Projects\SeleniumBasic\SeleniumBasic\bin\Debug\SeleniumBasic.dll
+C:\Users\khanh.tran\Documents\Visual Studio 2015\Projects\SeleniumBasic\SeleniumBasic\bin\Debug\SeleniumBasic.pdb
+C:\Users\khanh.tran\Documents\Visual Studio 2015\Projects\SeleniumBasic\SeleniumBasic\bin\Debug\WebDriver.dll
+C:\Users\khanh.tran\Documents\Visual Studio 2015\Projects\SeleniumBasic\SeleniumBasic\bin\Debug\WebDriver.Support.dll
+C:\Users\khanh.tran\Documents\Visual Studio 2015\Projects\SeleniumBasic\SeleniumBasic\obj\Debug\SeleniumBasic.dll
+C:\Users\khanh.tran\Documents\Visual Studio 2015\Projects\SeleniumBasic\SeleniumBasic\obj\Debug\SeleniumBasic.pdb
